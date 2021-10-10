@@ -1,4 +1,4 @@
-# The Purgatory
+# The Purgatory in Minecraft
 ### The ONLY TRULY Inescapable Prison
 ### Can you escape it?
 
