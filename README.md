@@ -1,5 +1,5 @@
-# The Purgatory in Minecraft
-### The ONLY TRULY Inescapable Prison
+# The Purgatory
+### The ONLY TRULY Inescapable Prison in Minecraft
 ### Can you escape it?
 
 ![photo](https://source.unsplash.com/1280x720/?prison)
